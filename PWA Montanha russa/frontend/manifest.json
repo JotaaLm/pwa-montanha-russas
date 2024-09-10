@@ -1,0 +1,22 @@
+{
+    "name": "Montanhas-Russas Famosas",
+    "short_name": "Montanhas-Russas",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#333",
+    "theme_color": "#333",
+    "description": "Descubra as montanhas-russas mais famosas do mundo!",
+    "icons": [
+      {
+        "src": "icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
